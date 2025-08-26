@@ -1,0 +1,10 @@
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\bin\Debug\Huongdancoban_bai1.exe.config
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\bin\Debug\Huongdancoban_bai1.exe
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\bin\Debug\Huongdancoban_bai1.pdb
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.csproj.AssemblyReference.cache
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.MainForm.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.Properties.Resources.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.csproj.GenerateResource.cache
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.csproj.CoreCompileInputs.cache
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.exe
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\Huongdancoban_bai1\obj\Debug\Huongdancoban_bai1.pdb
