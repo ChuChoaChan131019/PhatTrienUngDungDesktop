@@ -22,5 +22,23 @@ namespace BTTKForm
             var form = new frmBai1();
             form.ShowDialog();
         }
+
+        private void tsmBai2_Click(object sender, EventArgs e)
+        {
+            var form = new frmBai2();
+            form.ShowDialog();
+        }
+
+        private void tsmBai3_Click(object sender, EventArgs e)
+        {
+            var form = new frmBai3();
+            form.ShowDialog();
+        }
+
+        private void bài4ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var form = new frmBai4();
+            form.ShowDialog();
+        }
     }
 }

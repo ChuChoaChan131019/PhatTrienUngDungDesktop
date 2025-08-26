@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F9FDBE-CCD4-4096-9A76-5158060B3190}|Huongdancoban_Bai2\\Huongdancoban_Bai2.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\huongdancoban_bai2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F9FDBE-CCD4-4096-9A76-5158060B3190}|Huongdancoban_Bai2\\Huongdancoban_Bai2.csproj|solutionrelative:huongdancoban_bai2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F9FDBE-CCD4-4096-9A76-5158060B3190}|Huongdancoban_Bai2\\Huongdancoban_Bai2.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\huongdancoban_bai2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F9FDBE-CCD4-4096-9A76-5158060B3190}|Huongdancoban_Bai2\\Huongdancoban_Bai2.csproj|solutionrelative:huongdancoban_bai2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1A44DE-F392-4AA8-B3DF-DDB4900DF3B3}|Huongdancoban_bai1\\Huongdancoban_bai1.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\huongdancoban_bai1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1A44DE-F392-4AA8-B3DF-DDB4900DF3B3}|Huongdancoban_bai1\\Huongdancoban_bai1.csproj|solutionrelative:huongdancoban_bai1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1A44DE-F392-4AA8-B3DF-DDB4900DF3B3}|Huongdancoban_bai1\\Huongdancoban_bai1.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\huongdancoban_bai1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1A44DE-F392-4AA8-B3DF-DDB4900DF3B3}|Huongdancoban_bai1\\Huongdancoban_bai1.csproj|solutionrelative:huongdancoban_bai1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1A44DE-F392-4AA8-B3DF-DDB4900DF3B3}|Huongdancoban_bai1\\Huongdancoban_bai1.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\huongdancoban_bai1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C1A44DE-F392-4AA8-B3DF-DDB4900DF3B3}|Huongdancoban_bai1\\Huongdancoban_bai1.csproj|solutionrelative:huongdancoban_bai1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|d:\\trang\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bt_ungdungdesktop\\bttkform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FFD94F9-7C82-49C2-ADF7-36A40AD9D345}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,145 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmChinh.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmChinh.cs",
-              "RelativeDocumentMoniker": "BTTKForm\\frmChinh.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmChinh.cs",
-              "RelativeToolTip": "BTTKForm\\frmChinh.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:42:18.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmChinh.Designer.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmChinh.Designer.cs",
-              "RelativeDocumentMoniker": "BTTKForm\\frmChinh.Designer.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmChinh.Designer.cs",
-              "RelativeToolTip": "BTTKForm\\frmChinh.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:11:21.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\Program.cs",
-              "RelativeDocumentMoniker": "BTTKForm\\Program.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\Program.cs",
-              "RelativeToolTip": "BTTKForm\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:36:19.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmBai1.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai1.cs",
-              "RelativeDocumentMoniker": "BTTKForm\\frmBai1.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai1.cs",
-              "RelativeToolTip": "BTTKForm\\frmBai1.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAArwCQAAAAyAAAA",
+              "Title": "frmBai4.cs",
+              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BTTKForm\\frmBai4.cs",
+              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai4.cs",
+              "RelativeToolTip": "BTTKForm\\frmBai4.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAEwBsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:34:43.103Z",
+              "WhenOpened": "2025-08-26T17:43:51.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmBai1.cs [Design]",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai1.cs",
-              "RelativeDocumentMoniker": "BTTKForm\\frmBai1.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai1.cs [Design]",
-              "RelativeToolTip": "BTTKForm\\frmBai1.cs [Design]",
+              "Title": "frmBai4.cs [Design]",
+              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BTTKForm\\frmBai4.cs",
+              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai4.cs [Design]",
+              "RelativeToolTip": "BTTKForm\\frmBai4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:12:00.569Z",
+              "WhenOpened": "2025-08-26T17:39:11.315Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmChinh.cs [Design]",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmChinh.cs",
-              "RelativeDocumentMoniker": "BTTKForm\\frmChinh.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmChinh.cs [Design]",
-              "RelativeToolTip": "BTTKForm\\frmChinh.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BTTKForm\\frmBai3.cs",
+              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai3.cs",
+              "RelativeToolTip": "BTTKForm\\frmBai3.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvx4AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:58:49.606Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_Bai2\\MainForm.cs",
-              "RelativeDocumentMoniker": "Huongdancoban_Bai2\\MainForm.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_Bai2\\MainForm.cs",
-              "RelativeToolTip": "Huongdancoban_Bai2\\MainForm.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAD4vyYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:45:50.457Z",
+              "WhenOpened": "2025-08-26T17:15:25.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_Bai2\\MainForm.cs",
-              "RelativeDocumentMoniker": "Huongdancoban_Bai2\\MainForm.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_Bai2\\MainForm.cs [Design]",
-              "RelativeToolTip": "Huongdancoban_Bai2\\MainForm.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BTTKForm\\frmBai3.cs",
+              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\BTTKForm\\frmBai3.cs [Design]",
+              "RelativeToolTip": "BTTKForm\\frmBai3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:37:21.602Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_bai1\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "Huongdancoban_bai1\\MainForm.Designer.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_bai1\\MainForm.Designer.cs",
-              "RelativeToolTip": "Huongdancoban_bai1\\MainForm.Designer.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAUwFIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:36:06.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_bai1\\MainForm.cs",
-              "RelativeDocumentMoniker": "Huongdancoban_bai1\\MainForm.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_bai1\\MainForm.cs",
-              "RelativeToolTip": "Huongdancoban_bai1\\MainForm.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAWwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T07:16:36.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_bai1\\MainForm.cs",
-              "RelativeDocumentMoniker": "Huongdancoban_bai1\\MainForm.cs",
-              "ToolTip": "D:\\Trang\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\BT_UngDungDesktop\\Huongdancoban_bai1\\MainForm.cs [Design]",
-              "RelativeToolTip": "Huongdancoban_bai1\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T07:03:55.035Z",
+              "WhenOpened": "2025-08-26T17:01:19.676Z",
               "EditorCaption": " [Design]"
             }
           ]

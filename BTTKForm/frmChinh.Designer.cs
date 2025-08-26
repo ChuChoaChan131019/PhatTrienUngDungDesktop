@@ -35,6 +35,7 @@
             this.tsmBai1 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmBai2 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmBai3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.bài4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -63,7 +64,8 @@
             this.họTênCủaSinhViênToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmBai1,
             this.tsmBai2,
-            this.tsmBai3});
+            this.tsmBai3,
+            this.bài4ToolStripMenuItem});
             this.họTênCủaSinhViênToolStripMenuItem.Name = "họTênCủaSinhViênToolStripMenuItem";
             this.họTênCủaSinhViênToolStripMenuItem.Size = new System.Drawing.Size(171, 24);
             this.họTênCủaSinhViênToolStripMenuItem.Text = "Trần Thị Phương Trang";
@@ -82,6 +84,7 @@
             this.tsmBai2.Name = "tsmBai2";
             this.tsmBai2.Size = new System.Drawing.Size(224, 26);
             this.tsmBai2.Text = "Bài 2";
+            this.tsmBai2.Click += new System.EventHandler(this.tsmBai2_Click);
             // 
             // tsmBai3
             // 
@@ -89,6 +92,15 @@
             this.tsmBai3.Name = "tsmBai3";
             this.tsmBai3.Size = new System.Drawing.Size(224, 26);
             this.tsmBai3.Text = "Bài 3";
+            this.tsmBai3.Click += new System.EventHandler(this.tsmBai3_Click);
+            // 
+            // bài4ToolStripMenuItem
+            // 
+            this.bài4ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("bài4ToolStripMenuItem.Image")));
+            this.bài4ToolStripMenuItem.Name = "bài4ToolStripMenuItem";
+            this.bài4ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.bài4ToolStripMenuItem.Text = "Bài 4";
+            this.bài4ToolStripMenuItem.Click += new System.EventHandler(this.bài4ToolStripMenuItem_Click);
             // 
             // frmChinh
             // 
@@ -115,6 +127,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmBai1;
         private System.Windows.Forms.ToolStripMenuItem tsmBai2;
         private System.Windows.Forms.ToolStripMenuItem tsmBai3;
+        private System.Windows.Forms.ToolStripMenuItem bài4ToolStripMenuItem;
     }
 }
 

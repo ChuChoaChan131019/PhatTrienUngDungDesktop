@@ -9,3 +9,6 @@ D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug
 D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug\BTTKForm.csproj.CoreCompileInputs.cache
 D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug\BTTKForm.exe
 D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug\BTTKForm.pdb
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug\BTTKForm.frmBai2.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug\BTTKForm.frmBai3.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTTKForm\obj\Debug\BTTKForm.frmBai4.resources
