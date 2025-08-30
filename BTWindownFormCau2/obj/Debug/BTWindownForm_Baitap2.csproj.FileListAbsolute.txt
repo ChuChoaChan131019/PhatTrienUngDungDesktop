@@ -1,0 +1,13 @@
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\bin\Debug\BTWindownFormCau2.exe.config
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\bin\Debug\BTWindownFormCau2.exe
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\bin\Debug\BTWindownFormCau2.pdb
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownForm_Baitap2.csproj.AssemblyReference.cache
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.frmChinh.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.Properties.Resources.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownForm_Baitap2.csproj.GenerateResource.cache
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownForm_Baitap2.csproj.CoreCompileInputs.cache
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.exe
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.pdb
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.frmBai1.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.frmBai2.resources
+D:\Trang\Phát triển ứng dụng desktop\BT_UngDungDesktop\BTWindownFormCau2\obj\Debug\BTWindownFormCau2.frmBai3.resources
